@@ -1,0 +1,9 @@
+{
+    "users": [
+        {
+            "user01" : "Vitor",
+            "age" : 23,
+            "city" : "Guarulhos"
+        }
+    ]
+}

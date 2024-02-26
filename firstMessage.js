@@ -5,11 +5,11 @@ const port = 3000
 const server = http.createServer((req, res) =>{
     res.statusCode = 200;
     res.setHeader('Content-Type', 'text/plain');
-    res.end('Olá mundo!!');
+    res.end('Ola!!\nVoce por aqui?');
 })
 
 server.listen(port, host, () =>{
-    console.log('HELLO WORLD');
+    console.log('Olá!');
 })
 
 
