@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "yarn": "^1.22.21"
+  },
+  "name": "studyingnodejs",
+  "description": "teste",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorvargem27/StudyingNodeJS.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Vitor Vargem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitorvargem27/StudyingNodeJS/issues"
+  },
+  "homepage": "https://github.com/vitorvargem27/StudyingNodeJS#readme"
+}
