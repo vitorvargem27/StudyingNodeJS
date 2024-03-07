@@ -12,3 +12,5 @@ console.log((process.hrtime()[0]/[60]).toFixed(5));
 const transformBuffer = Buffer.from(data, 'utf8')
 const bufferText = transformBuffer.toString('utf-8')
 console.log(bufferText)
+
+console.log(data)

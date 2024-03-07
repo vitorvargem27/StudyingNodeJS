@@ -1,9 +1,17 @@
 {
     "users": [
         {
-            "user01" : "Vitor",
+            "id" : 1,
+            "user" : "Vitor",
             "age" : 23,
             "city" : "Guarulhos"
+        },
+
+        {
+            "id" : 2,
+            "user" : "Leticia",
+            "age" : 26,
+            "city" : "Jaçanã"
         }
     ]
 }
