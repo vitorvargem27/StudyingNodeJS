@@ -11,5 +11,5 @@ const server = http.createServer((req, res) => {
 
 //Rodando o servidor gerando uma mensagem no terminal cmder
 server.listen(port, host, () =>{
-    console.log(`Server running at http:// ${host} : ${port}`)
+    console.log(`Server running at http:// ${host} : ${port}`);
 })
