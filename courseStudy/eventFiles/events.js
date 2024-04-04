@@ -1,4 +1,4 @@
-const EventEmitter = require('events')
+const {EventEmitter} = require('events')
 
 //Criando e extendendo um evento com orientação a objetos
 class Event extends EventEmitter {}
